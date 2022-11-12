@@ -1,0 +1,45 @@
+body{
+    background-color: #2f3035;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+main{
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    margin-top: 80;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+a{
+    color:black;
+}
+
+p{
+    font-size: 18px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+nav{
+    background-color: white;
+    height: 40px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+h1{
+    color: white;
+}
+
+button{
+    text-align: center;
+    align-items: center;
+}

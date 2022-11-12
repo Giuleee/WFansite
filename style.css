@@ -1,0 +1,37 @@
+body{
+    background-color: #2f3035;
+    background-image: url(images/Warframe.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+main{
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    margin-top: 80;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+nav{
+    background-color: rgba(0, 0, 0, 0.388);
+    height: 40px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+a{
+    color:white;
+}
+
+p{
+    font-size: 18px;
+    color:green;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
