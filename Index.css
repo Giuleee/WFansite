@@ -1,0 +1,23 @@
+body {
+	margin: 0px;
+}
+
+.hero-content {
+    color: white;
+}
+
+.hero-wrapper {
+    background-color: blue;
+    height: 200px;
+    width: 100%;
+}
+
+nav{
+    background-color: rgba(0, 0, 0, 0.388);
+    height: 40px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+}
